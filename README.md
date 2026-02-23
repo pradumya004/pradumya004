@@ -1,208 +1,444 @@
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 MIX OF PLAYFUL + PROFESSIONAL 🎯 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=200&section=header&text=Pradumya&fontSize=70&fontColor=ffffff&fontAlignY=35&rotate=13&desc=Full%20Stack%20Developer%20•%20Builder%20•%20Shipper&descSize=18&descAlignY=60&descAlign=70)
+<!-- 
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  🔮 PRADUMYA's GITHUB PROFILE — CRAFTED WITH OBSESSION 🔮  ║
+    ╚══════════════════════════════════════════════════════════════╝
+    
+    ⚠️ SETUP: Upload header.svg to your pradumya004 repo
+    and update the header image path below accordingly.
+-->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hey+there!+I'm+Pradumya+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%8C%90;Currently+shipping+code+%40+Springworks+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- ═══════════════════ ANIMATED SVG HEADER ═══════════════════ -->
+<!-- 👇 Replace this path with your actual raw GitHub URL after uploading header.svg -->
+<img src="https://raw.githubusercontent.com/pradumya004/pradumya004/main/header.svg" width="100%" alt="Pradumya — Full Stack Developer" />
+
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%24+sudo+apt+get+life+--version;%3E+v2.0+%7C+Full+Stack+Developer+%7C+Ship+Mode+%F0%9F%9A%80;%24+echo+%22Building+the+future%2C+one+commit+at+a+time%22" alt="Typing SVG" />
+</a>
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div>
+<!-- ═══════════════════ HORIZONTAL RULE ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-### 👨‍💻 `whoami`
+<!-- ═══════════════════ ABOUT SECTION ═══════════════════ -->
 
-> _I'm a Full Stack Developer who started as a frontend enthusiast and evolved into someone who loves building end-to-end products. I've spent the last year shipping real websites for real businesses, and I'm not stopping anytime soon._
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-<br>
+### &nbsp; `> cat about_me.json` &nbsp; 🧬
 
-<details>
-<summary>📌 <b>Quick Facts</b> (click to expand)</summary>
-<br>
-
-- 🏢 **Currently:** SDE Intern at **Springworks** _(Jan 2026 — Present)_
-- 🏗️ **Previously:** SDE Intern at **GetMax Solutions** _(Jan 2025 — Dec 2025)_
-- 🎯 **Journey:** Frontend Developer → Full Stack Developer
-- 🌐 **Shipped:** 3+ production websites
-- 👤 **Fun fact:** I'm credited on the [GetMax Healthcare team page](https://www.getmaxhealthcare.com)!
-- ☕ **Fuel:** Chai + Lo-Fi beats
-
-</details>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div>
-
-<br>
-
-## 🗺️ My Journey So Far
-
-<div align="center">
-
-```mermaid
-gantt
-    title Career Timeline
-    dateFormat  YYYY-MM
-    axisFormat  %b %Y
-    
-    section GetMax Solutions
-    SDE Intern (Frontend → Full Stack)  :done, getmax, 2025-01, 2025-12
-    
-    section Client Work
-    IMAX Sports Website                 :done, imax, 2025-04, 2025-08
-    
-    section Springworks  
-    SDE Intern                          :active, spring, 2026-01, 2026-06
-    
-    section Personal
-    Portfolio Website                   :crit, portfolio, 2025-06, 2026-03
+```json
+{
+  "name": "Pradumya",
+  "title": "Full Stack Developer",
+  "current": "SDE Intern @ Springworks",
+  "experience": "1+ year in production environments",
+  "evolution": "Frontend → Full Stack",
+  "philosophy": "Ship fast. Ship often. Ship quality.",
+  "websites_shipped": 3,
+  "status": "🟢 Open to collaborations"
+}
 ```
 
-</div>
+</td>
+<td width="45%" align="center" valign="top">
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🟢 Springworks — _Current_
-**SDE Intern** &nbsp;`Jan 2026 — Present`
-
-Actively building production features, pushing PRs, and contributing to the core product. Shipping code daily and collaborating with the engineering team.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradumya004&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" width="280" />
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🔵 GetMax Solutions
-**SDE Intern** &nbsp;`Jan 2025 — Dec 2025`
-
-My first professional home — where I grew from a frontend developer into a confident full stack engineer over 12 incredible months.
-
-**Key highlights:**
-- 🌐 Built [getmaxhealthcare.com](https://www.getmaxhealthcare.com) — the official website
-- 🎨 Owned the entire frontend architecture
-- 📈 Transitioned to full stack development
-- 👤 Featured on the company's Team Page
-- 🤝 Delivered [IMAX Sports](https://imaxsports.com) for an external client
-
-</td>
-
 </tr>
 </table>
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## 🚀 Projects in the Wild
+<!-- ═══════════════════ EXPERIENCE TIMELINE ═══════════════════ -->
 
 <div align="center">
 
-| &nbsp; | Project | What I Did | Link |
-|:------:|:--------|:-----------|:----:|
-| 🏥 | **GetMax Healthcare** | Built the entire frontend + full stack features for the official company website | [Visit →](https://www.getmaxhealthcare.com) |
-| 🏏 | **IMAX Sports** | Designed & developed a client-facing website from scratch | [Visit →](https://imaxsports.com) |
-| 🎨 | **Personal Portfolio** | My personal space to showcase everything I've built | _Coming Soon_ |
+### &nbsp; `> git log --career` &nbsp; 📜
 
 </div>
 
 <br>
 
+<table align="center" border="0">
+<tr>
+<td align="center" width="80">
+  
+```
+ NOW 
+```
+
+</td>
+<td width="20" align="center">
+  <img src="https://img.shields.io/badge/●-34d399?style=flat-square&label=" height="18" />
+</td>
+<td>
+
+**🏢 Springworks** — `SDE Intern` &nbsp;&nbsp; <img src="https://img.shields.io/badge/Jan_2026—Present-a78bfa?style=flat-square&labelColor=1a1b27" />
+
+> Shipping production features daily. Pushing PRs. Contributing to core product. Living in the codebase.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="80">
+
+```
+2025
+```
+
+</td>
+<td width="20" align="center">
+  <img src="https://img.shields.io/badge/●-6366f1?style=flat-square&label=" height="18" />
+</td>
+<td>
+
+**🏗️ GetMax Solutions** — `SDE Intern` &nbsp;&nbsp; <img src="https://img.shields.io/badge/Jan_2025—Dec_2025-6366f1?style=flat-square&labelColor=1a1b27" />
+
+> My origin story. 12 months of pure growth.
+> - 🌐 **Architected** [getmaxhealthcare.com](https://www.getmaxhealthcare.com) — the entire frontend + full stack features
+> - 📈 **Evolved** from Frontend Dev → Full Stack Developer
+> - 👤 **Credited** on the official [Team Page](https://www.getmaxhealthcare.com)
+> - 🤝 **Delivered** [IMAX Sports](https://imaxsports.com) — full client website, from scratch
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="80">
+
+```
+ ∞ 
+```
+
+</td>
+<td width="20" align="center">
+  <img src="https://img.shields.io/badge/●-ec4899?style=flat-square&label=" height="18" />
+</td>
+<td>
+
+**🎨 Personal Projects** — `Creator`
+
+> Building my portfolio & experimenting with new tech. Always shipping.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════ SHIPPED PROJECTS ═══════════════════ -->
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+
+### &nbsp; `> ls ~/shipped/` &nbsp; 🚀
+
+<br>
+
+<a href="https://www.getmaxhealthcare.com">
+  <img src="https://img.shields.io/badge/🏥_GetMax_Healthcare-Visit_Live_→-a78bfa?style=for-the-badge&labelColor=1a1b27" />
+</a>
+&nbsp;&nbsp;
+<a href="https://imaxsports.com">
+  <img src="https://img.shields.io/badge/🏏_IMAX_Sports-Visit_Live_→-6366f1?style=for-the-badge&labelColor=1a1b27" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🎨_Portfolio-Coming_Soon-ec4899?style=for-the-badge&labelColor=1a1b27" />
+
+<br><br>
+
+| &nbsp; | Project | What I Built | Impact |
+|:------:|:--------|:-------------|:-------|
+| <img src="https://img.shields.io/badge/01-a78bfa?style=flat-square&labelColor=1a1b27" /> | [**GetMax Healthcare**](https://www.getmaxhealthcare.com) | Entire frontend architecture + full stack features for the official company website | 🟢 Live in production, serving real users |
+| <img src="https://img.shields.io/badge/02-6366f1?style=flat-square&labelColor=1a1b27" /> | [**IMAX Sports**](https://imaxsports.com) | End-to-end client website — designed, developed, and shipped | 🟢 Delivered to client, live on web |
+| <img src="https://img.shields.io/badge/03-ec4899?style=flat-square&labelColor=1a1b27" /> | **Personal Portfolio** | A space to showcase everything I've built | 🟡 In development |
+
 </div>
 
 <br>
 
-## 🛠️ Tech I Work With
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
 
-| Category | Technologies |
-|:--------:|:-------------|
-| **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+### &nbsp; `> neofetch --tech-stack` &nbsp; ⚡
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+  </a>
+  <br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+  </a>
+  <br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+  </a>
+  <br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+  </a>
+  <br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  </a>
+  <br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+  </a>
+  <br><sub><b>Express</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+  </a>
+  <br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
+  </a>
+  <br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+  </a>
+  <br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  </a>
+  <br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+  </a>
+  <br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  </a>
+  <br><sub><b>Git</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  </a>
+  <br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+  </a>
+  <br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+  </a>
+  <br><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+  </a>
+  <br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+  </a>
+  <br><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  </a>
+  <br><sub><b>Linux</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-## 📊 The Numbers
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradumya004&show_icons=true&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2&text_color=333333" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradumya004&hide_border=true&background=ffffff&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=667eea" width="48%" />
+### &nbsp; `> gh stats --visual` &nbsp; 📊
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradumya004&layout=compact&hide_border=true&bg_color=ffffff&title_color=667eea&text_color=333333" width="40%" />
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=pradumya004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pradumya004&hide_border=true&background=0D1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" width="49%" />
 
 <br>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-_I'm always excited to meet fellow developers, collaborate on projects, or just chat about tech._
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradumya004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pradumya.dev)
-[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumya004@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-764ba2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pradumya004)
-
-<br>
-
-⭐ **If you find my work interesting, consider giving my repos a star!**
-
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=pradumya004&color=667eea&style=flat-square&label=Profile+Views)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradumya004&bg_color=0d1117&color=a78bfa&line=6366f1&point=ec4899&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Graph" width="96%" />
 
 </div>
 
 <br>
 
+<!-- ═══════════════════ GITHUB TROPHIES ═══════════════════ -->
+
 <div align="center">
 
-_"First, solve the problem. Then, write the code."_ — John Johnson
+<img src="https://github-profile-trophy.vercel.app/?username=pradumya004&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="96%" />
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=120&section=footer&rotate=13)
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
+
+<div align="center">
+
+### &nbsp; `> watch --snake contributions` &nbsp; 🐍
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradumya004/pradumya004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradumya004/pradumya004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pradumya004/pradumya004/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br>
+
+> _💡 **Setup required:** Add the [snk GitHub Action](https://github.com/Platane/snk) to auto-generate this!_
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════ SPOTIFY / NOW PLAYING (OPTIONAL) ═══════════════════ -->
+
+<!--
+### &nbsp; `> spotify --now-playing` &nbsp; 🎵
+
+<div align="center">
+
+[![Spotify](https://novatorem-pradumya004.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+-->
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+<div align="center">
+
+### &nbsp; `> ssh pradumya@internet` &nbsp; 🔗
+
+<br>
+
+<a href="https://linkedin.com/in/pradumya004">
+  <img src="https://img.shields.io/badge/-pradumya-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="https://pradumya.dev">
+  <img src="https://img.shields.io/badge/-portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="mailto:pradumya004@gmail.com">
+  <img src="https://img.shields.io/badge/-email-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+&nbsp;
+<a href="https://twitter.com/pradumya004">
+  <img src="https://img.shields.io/badge/-twitter-06b6d4?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" />
+</a>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
+
+<br>
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  "The best error message is the one that never shows up."
+                                        — Thomas Fuchs
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=pradumya004&color=a78bfa&style=for-the-badge&label=VISITORS" />
+
+<br><br>
+
+<sub>crafted with obsession · powered by caffeine · deployed with love</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a78bfa,100:ec4899&height=120&section=footer" width="100%" />
