@@ -293,27 +293,17 @@ Building production features, shipping PRs daily, contributing to core product e
 
 <br>
 
-<!-- ══════════════ GITHUB ANALYTICS — UPDATED ══════════════ -->
+<!-- ══════════════ GITHUB ANALYTICS — FINAL ══════════════ -->
 <div align="center">
   <img src="https://img.shields.io/badge/ANALYTICS-0a0a0f?style=for-the-badge&labelColor=0a0a0f" />
 </div>
 <br>
 <div align="center">
-<!-- GitHub Stats Card — using github-readme-stats (primary) -->
 <img src="https://github-readme-stats.vercel.app/api?username=pradumya004&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=ec4899&text_color=94a3b8&ring_color=a855f7&include_all_commits=true&count_private=true&border_radius=12&cache_seconds=1800" width="49%" />
-<!-- Streak Stats — using the reliable alternative instance -->
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pradumya004&hide_border=true&background=0a0a0f&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=a855f7&currStreakNum=ffffff&sideNums=94a3b8&dates=555555&border_radius=12" width="49%" />
 <br>
-<!-- Profile Summary Cards — reliable alternative for extra stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradumya004&theme=github_dark" width="96%" />
 <br>
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradumya004&bg_color=0a0a0f&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Graph&radius=12" width="96%" />
-<br>
-<!-- Top Languages — compact -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradumya004&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=94a3b8&border_radius=12&cache_seconds=1800" width="40%" />
-<br>
-<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=pradumya004&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="96%" />
 </div>
 <br>
