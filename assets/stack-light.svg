@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="176" viewBox="0 0 1000 176" role="img" aria-label="Stack: Node.js, TypeScript, BullMQ, Redis, MySQL, PostgreSQL, AWS Bedrock, SES, React, Next.js, Supabase, WebSockets, WebRTC.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="168" viewBox="0 0 1000 168" role="img" aria-label="Stack: Node.js, TypeScript, BullMQ, Redis, MySQL, PostgreSQL, AWS Bedrock, SES, React, Next.js, Supabase, WebSockets, WebRTC.">
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace; }
     .fg { fill: #1d1d1f; } .fg2 { fill: #6e6e73; } .fg3 { fill: #86868b; }
-    .rise { transform-box: fill-box; animation: rise 1.1s cubic-bezier(.16,1,.3,1) both; }
-    .fade { animation: fade 1.2s ease-out both; }
-    .draw { animation: draw 1.6s cubic-bezier(.16,1,.3,1) both; }
+    .rise { transform-box: fill-box; animation: rise .5s cubic-bezier(.22,1,.36,1) both; }
+    .fade { transform-box: fill-box; animation: reveal .5s ease-in-out both; }
+    .draw { animation: draw 1.2s cubic-bezier(.22,1,.36,1) both; }
     .drift-a { animation: drift-a 16s ease-in-out infinite alternate; }
     .drift-b { animation: drift-b 11s ease-in-out infinite alternate; }
-    .drift-c { animation: drift-c 7s ease-in-out infinite alternate; }
-    @keyframes rise { from { transform: translateY(110%); } to { transform: translateY(0); } }
-    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    .drift-c { animation: drift-c 8s ease-in-out infinite alternate; }
+    @keyframes rise { from { transform: translateY(105%); filter: blur(3px); } to { transform: none; filter: blur(0); } }
+    @keyframes reveal { from { opacity: 0; transform: translateY(12px); filter: blur(3px); } to { opacity: 1; transform: none; filter: blur(0); } }
     @keyframes draw { to { stroke-dashoffset: 0; } }
-    @keyframes drift-a { from { transform: translate(0, 0); } to { transform: translate(-14px, 8px); } }
-    @keyframes drift-b { from { transform: translate(0, 0); } to { transform: translate(22px, -14px); } }
-    @keyframes drift-c { from { transform: translate(0, 0); } to { transform: translate(-8px, -10px); } }
-    @keyframes m0 { from { transform: translateX(0); } to { transform: translateX(-2662px); } }
-@keyframes m1 { from { transform: translateX(-1651px); } to { transform: translateX(0); } }
+    @keyframes drift-a { from { transform: translate(0, 0); } to { transform: translate(-12px, 6px); } }
+    @keyframes drift-b { from { transform: translate(0, 0); } to { transform: translate(18px, -10px); } }
+    @keyframes drift-c { from { transform: translate(0, 0); } to { transform: translate(-6px, -8px); } }
+    @keyframes m0 { from { transform: translateX(0); } to { transform: translateX(-2330px); } }
+@keyframes m1 { from { transform: translateX(-1341px); } to { transform: translateX(0); } }
     @media (prefers-reduced-motion: reduce) {
       * { animation: none !important; }
       .draw { stroke-dashoffset: 0 !important; }
@@ -25,22 +25,19 @@
 </style>
   <defs>
     <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#059669"/><stop offset=".5" stop-color="#0071e3"/><stop offset="1" stop-color="#7c3aed"/>
+      <stop offset="0" stop-color="#0066cc"/><stop offset=".55" stop-color="#5e5ce6"/><stop offset="1" stop-color="#af52de"/>
     </linearGradient>
     <linearGradient id="gline" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
-      <stop offset="0" stop-color="#059669"/><stop offset=".5" stop-color="#0071e3"/><stop offset="1" stop-color="#7c3aed"/>
+      <stop offset="0" stop-color="#0066cc"/><stop offset=".55" stop-color="#5e5ce6"/><stop offset="1" stop-color="#af52de"/>
     </linearGradient>
-    <radialGradient id="orb1"><stop offset="0" stop-color="#0071e3" stop-opacity="0.28"/><stop offset="1" stop-color="#0071e3" stop-opacity="0"/></radialGradient>
-    <radialGradient id="orb2"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.28"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
-    <radialGradient id="orb3"><stop offset="0" stop-color="#059669" stop-opacity="0.22400000000000003"/><stop offset="1" stop-color="#059669" stop-opacity="0"/></radialGradient>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1d1d1f" fill-opacity=".09"/></pattern>
-    <clipPath id="tile"><rect width="1000" height="176" rx="28"/></clipPath>
-  </defs>
+    <radialGradient id="orb1"><stop offset="0" stop-color="#0066cc" stop-opacity="0.22"/><stop offset="1" stop-color="#0066cc" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orb2"><stop offset="0" stop-color="#af52de" stop-opacity="0.22"/><stop offset="1" stop-color="#af52de" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#1d1d1f" fill-opacity="0.07"/></pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="15"/></filter><clipPath id="tile"><rect width="1000" height="168" rx="18"/></clipPath></defs>
   <g clip-path="url(#tile)">
-    <rect width="1000" height="176" fill="#fbfbfd"/>
+    <rect width="1000" height="168" fill="#f5f5f7"/>
 <defs>
     <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".1" stop-color="#fff"/><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-    <mask id="fade"><rect width="1000" height="176" fill="url(#edge)"/></mask></defs><g mask="url(#fade)"><g style="animation:m0 46s linear infinite"><text x="0" y="78" font-size="40" font-weight="700" class="fg" textLength="2662" lengthAdjust="spacing" xml:space="preserve">Node.js   ·   TypeScript   ·   BullMQ   ·   Redis   ·   MySQL   ·   PostgreSQL   ·   AWS Bedrock   ·   SES   ·   Webhooks   ·   </text><text x="2662" y="78" font-size="40" font-weight="700" class="fg" textLength="2662" lengthAdjust="spacing" xml:space="preserve">Node.js   ·   TypeScript   ·   BullMQ   ·   Redis   ·   MySQL   ·   PostgreSQL   ·   AWS Bedrock   ·   SES   ·   Webhooks   ·   </text><text x="5325" y="78" font-size="40" font-weight="700" class="fg" textLength="2662" lengthAdjust="spacing" xml:space="preserve">Node.js   ·   TypeScript   ·   BullMQ   ·   Redis   ·   MySQL   ·   PostgreSQL   ·   AWS Bedrock   ·   SES   ·   Webhooks   ·   </text></g><g style="animation:m1 30s linear infinite"><text x="0" y="136" font-size="26" font-weight="500" class="fg3" textLength="1651" lengthAdjust="spacing" xml:space="preserve">React   ·   Next.js   ·   Supabase   ·   WebSockets   ·   WebRTC   ·   Express   ·   MongoDB   ·   Tailwind   ·   Vitest   ·   </text><text x="1651" y="136" font-size="26" font-weight="500" class="fg3" textLength="1651" lengthAdjust="spacing" xml:space="preserve">React   ·   Next.js   ·   Supabase   ·   WebSockets   ·   WebRTC   ·   Express   ·   MongoDB   ·   Tailwind   ·   Vitest   ·   </text><text x="3302" y="136" font-size="26" font-weight="500" class="fg3" textLength="1651" lengthAdjust="spacing" xml:space="preserve">React   ·   Next.js   ·   Supabase   ·   WebSockets   ·   WebRTC   ·   Express   ·   MongoDB   ·   Tailwind   ·   Vitest   ·   </text></g></g>
+    <mask id="fadeedge"><rect width="1000" height="168" fill="url(#edge)"/></mask></defs><g mask="url(#fadeedge)"><g style="animation:m0 50s linear infinite"><text x="0" y="76" font-size="40" font-weight="600" class="fg" textLength="2330" lengthAdjust="spacing" xml:space="preserve">Node.js   ·   TypeScript   ·   BullMQ   ·   Redis   ·   MySQL   ·   PostgreSQL   ·   AWS Bedrock   ·   SES   ·   Webhooks   ·   </text><text x="2330" y="76" font-size="40" font-weight="600" class="fg" textLength="2330" lengthAdjust="spacing" xml:space="preserve">Node.js   ·   TypeScript   ·   BullMQ   ·   Redis   ·   MySQL   ·   PostgreSQL   ·   AWS Bedrock   ·   SES   ·   Webhooks   ·   </text><text x="4659" y="76" font-size="40" font-weight="600" class="fg" textLength="2330" lengthAdjust="spacing" xml:space="preserve">Node.js   ·   TypeScript   ·   BullMQ   ·   Redis   ·   MySQL   ·   PostgreSQL   ·   AWS Bedrock   ·   SES   ·   Webhooks   ·   </text></g><g style="animation:m1 32s linear infinite"><text x="0" y="128" font-size="24" font-weight="400" class="fg3" textLength="1341" lengthAdjust="spacing" xml:space="preserve">React   ·   Next.js   ·   Supabase   ·   WebSockets   ·   WebRTC   ·   Express   ·   MongoDB   ·   Tailwind   ·   Vitest   ·   </text><text x="1341" y="128" font-size="24" font-weight="400" class="fg3" textLength="1341" lengthAdjust="spacing" xml:space="preserve">React   ·   Next.js   ·   Supabase   ·   WebSockets   ·   WebRTC   ·   Express   ·   MongoDB   ·   Tailwind   ·   Vitest   ·   </text><text x="2682" y="128" font-size="24" font-weight="400" class="fg3" textLength="1341" lengthAdjust="spacing" xml:space="preserve">React   ·   Next.js   ·   Supabase   ·   WebSockets   ·   WebRTC   ·   Express   ·   MongoDB   ·   Tailwind   ·   Vitest   ·   </text></g></g>
   </g>
-  <rect x=".5" y=".5" width="999" height="175" rx="28" fill="none" stroke="#0000001a"/>
 </svg>

@@ -40,11 +40,25 @@ SDE-1 at **SpringWorks**, building automation for a background-verification plat
 
 [Code](https://github.com/pradumya004/bowl-n-sticks) · [Live](https://bowl-n-sticks.vercel.app)
 
+### Experience
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img src="assets/timeline-light.svg" width="100%" alt="2025 GetMax Solutions: built getmaxhealthcare.com and internal tools for US healthcare ops. 2026 SpringWorks, SDE-1: backend automation, queues, LLM routing, WhatsApp Cloud API, 148 merged PRs. Now open to remote.">
+</picture>
+
 ### Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img src="assets/stack-light.svg" width="100%" alt="Node.js, TypeScript, BullMQ, Redis, MySQL, PostgreSQL, AWS Bedrock, SES, React, Next.js, Supabase, WebSockets, WebRTC.">
+</picture>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradumya004/pradumya004/output/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/pradumya004/pradumya004/output/activity-light.svg" width="100%" alt="Contribution graph, animated">
 </picture>
 
 <p align="center">

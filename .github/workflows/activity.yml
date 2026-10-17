@@ -1,0 +1,29 @@
+name: Activity strip
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/activity.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: pradumya004
+          outputs: |
+            dist/activity-light.svg?color_snake=#0066cc&color_dots=#ebebf0,#cfe0f7,#8ab8f0,#3d8be8,#0066cc
+            dist/activity-dark.svg?color_snake=#2997ff&color_dots=#1c1c1e,#0d2a4d,#124c8f,#1f6fd6,#2997ff
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
