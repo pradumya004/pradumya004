@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" role="img" aria-label="Pradumya Gaurav. Backend engineer. I turn manual ops work into automated pipelines.">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace; }
+    .fg { fill: #f5f5f7; } .fg2 { fill: #a1a1a6; } .fg3 { fill: #6e6e73; }
+    .rise { transform-box: fill-box; animation: rise 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .fade { animation: fade 1.2s ease-out both; }
+    .draw { animation: draw 1.6s cubic-bezier(.16,1,.3,1) both; }
+    .drift-a { animation: drift-a 16s ease-in-out infinite alternate; }
+    .drift-b { animation: drift-b 11s ease-in-out infinite alternate; }
+    .drift-c { animation: drift-c 7s ease-in-out infinite alternate; }
+    @keyframes rise { from { transform: translateY(110%); } to { transform: translateY(0); } }
+    @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes drift-a { from { transform: translate(0, 0); } to { transform: translate(-14px, 8px); } }
+    @keyframes drift-b { from { transform: translate(0, 0); } to { transform: translate(22px, -14px); } }
+    @keyframes drift-c { from { transform: translate(0, 0); } to { transform: translate(-8px, -10px); } }
+    
+    @keyframes pulse { 0% { transform: translateX(0); opacity: 0; } 6% { opacity: 1; } 70% { transform: translateX(872px); opacity: 1; } 76%, 100% { transform: translateX(872px); opacity: 0; } }
+    
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .draw { stroke-dashoffset: 0 !important; }
+      .loop { display: none; }
+    }
+</style>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/><stop offset=".5" stop-color="#2997ff"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="gline" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#34d399"/><stop offset=".5" stop-color="#2997ff"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="orb1"><stop offset="0" stop-color="#2997ff" stop-opacity="0.55"/><stop offset="1" stop-color="#2997ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orb2"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.55"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orb3"><stop offset="0" stop-color="#34d399" stop-opacity="0.44000000000000006"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#f5f5f7" fill-opacity=".09"/></pattern>
+    <clipPath id="tile"><rect width="1000" height="540" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#tile)">
+    <rect width="1000" height="540" fill="#000000"/>
+
+    <g class="drift-a"><rect x="-40" y="-40" width="1080" height="620" fill="url(#dots)"/></g>
+    <g class="drift-b"><ellipse cx="820" cy="120" rx="360" ry="260" fill="url(#orb1)"/></g>
+    <g class="drift-c"><ellipse cx="640" cy="420" rx="300" ry="200" fill="url(#orb2)"/><ellipse cx="140" cy="500" rx="260" ry="160" fill="url(#orb3)"/></g>
+
+    <g class="fade" style="animation-delay:.05s">
+      <text x="64" y="96" font-size="22" font-weight="600" class="fg" letter-spacing="-.3">Pradumya Gaurav</text>
+      <text x="64" y="124" font-size="16" class="fg2">Backend engineer · Node.js, queues, LLMs · Bengaluru</text>
+    </g>
+    <clipPath id="l0"><rect x="0" y="150" width="1000" height="84"/></clipPath><g clip-path="url(#l0)"><text x="64" y="214" font-size="64" font-weight="700" letter-spacing="-2.2" class="fg rise" style="animation-delay:0.25s">I turn manual ops work</text></g><clipPath id="l1"><rect x="0" y="224" width="1000" height="84"/></clipPath><g clip-path="url(#l1)"><text x="64" y="288" font-size="64" font-weight="700" letter-spacing="-2.2" fill="url(#grad)" class="rise" style="animation-delay:0.39s">into automated pipelines.</text></g>
+    <text x="64" y="370" font-size="19" class="fg2 fade" style="animation-delay:.7s">Production systems where the busywork runs itself, and people only see what needs a human.</text>
+
+    <path d="M64 448H936" stroke="url(#gline)" stroke-width="1.5" stroke-dasharray="872" stroke-dashoffset="872" class="draw" style="animation-delay:.9s"/>
+    <g class="loop"><circle cx="64" cy="448" r="4" fill="url(#grad)" style="animation: pulse 4.2s cubic-bezier(.16,1,.3,1) 2.2s infinite both"/></g>
+    <g class="fade" style="animation-delay:1.00s"><rect x="64" y="434" width="82" height="29" rx="14.5" fill="#1d1d1f" stroke="#ffffff26"/><text x="105" y="453.2" text-anchor="middle" font-size="13" class="mono fg">inbound</text></g><g class="fade" style="animation-delay:1.12s"><rect x="249" y="434" width="66" height="29" rx="14.5" fill="#1d1d1f" stroke="#ffffff26"/><text x="282" y="453.2" text-anchor="middle" font-size="13" class="mono fg">queue</text></g><g class="fade" style="animation-delay:1.24s"><rect x="475" y="434" width="50" height="29" rx="14.5" fill="#1d1d1f" stroke="#ffffff26"/><text x="500" y="453.2" text-anchor="middle" font-size="13" class="mono fg">llm</text></g><g class="fade" style="animation-delay:1.36s"><rect x="681" y="434" width="74" height="29" rx="14.5" fill="#1d1d1f" stroke="#ffffff26"/><text x="718" y="453.2" text-anchor="middle" font-size="13" class="mono fg">action</text></g><g class="fade" style="animation-delay:1.48s"><rect x="878" y="434" width="58" height="29" rx="14.5" fill="#1d1d1f" stroke="url(#grad)"/><text x="907" y="453.2" text-anchor="middle" font-size="13" class="mono fg">done</text></g>
+    
+  </g>
+  <rect x=".5" y=".5" width="999" height="539" rx="28" fill="none" stroke="#ffffff1f"/>
+</svg>
