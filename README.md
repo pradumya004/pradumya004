@@ -16,10 +16,10 @@ Backend engineer in Bengaluru. I turn manual ops work into automated pipelines w
 
 ### Projects
 
-**[BuzzBell](https://github.com/pradumya004/BuzzBell)**: realtime chat on Postgres. Two guests in a DM: typing, delivery and reactions arrive live, and Row Level Security decides who reads what. 34 SQL checks try to break it.
+**[BuzzBell](https://github.com/pradumya004/BuzzBell)** · [live](https://buzz-bell-ycsb.vercel.app): realtime chat on Postgres. Two guests in a DM: typing, delivery and reactions arrive live, and Row Level Security decides who reads what. 34 SQL checks try to break it.
 <br><sub>React · TypeScript · Supabase Realtime · Postgres RLS · Vitest</sub>
 
-<a href="https://github.com/pradumya004/BuzzBell"><img src="assets/buzzbell.webp" width="100%" alt="Two BuzzBell windows side by side: Riya types, Sam sees 'Riya Kapoor is typing', the message lands, Sam reacts, replies, and Riya reacts back."></a>
+<a href="https://buzz-bell-ycsb.vercel.app"><img src="assets/buzzbell.webp" width="100%" alt="Two BuzzBell windows side by side: Riya types, Sam sees 'Riya Kapoor is typing', the message lands, Sam reacts, replies, and Riya reacts back."></a>
 
 **[Pawse](https://github.com/pradumya004/pawse)** · [live](https://pawsetv.vercel.app): watch movies together from two places. Play, pause and seek sync over a WebSocket relay; the movie file goes peer to peer over WebRTC. The two players stayed about 0.1 s apart in a recorded test.
 <br><sub>React · Node.js ws relay · WebRTC DataChannel · Chrome MV3</sub>
