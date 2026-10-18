@@ -15,9 +15,9 @@ SDE-1 at SpringWorks (background verification) · Bengaluru, IST (UTC+5:30) · o
   <img src="assets/impact-light.svg" width="100%" alt="86% of reference checks start with no human. Manual tasks fell from 116 to 14 a day. 11K+ WhatsApp messages with about 90% of replies auto-routed. Turnaround 31% faster, 22.4 to 15.4 days.">
 </picture>
 
-**Reference-check automation.** Checks start themselves, follow up every 24 hours, and an LLM on AWS Bedrock reads each reply and decides the next step.<br>
-**WhatsApp on Meta Cloud API.** I proposed and built it: send pipeline, webhooks, BullMQ queues, template sync, an agent inbox and a reply classifier, rolled out behind flags from 1% to 100%.<br>
-**AI in the pipeline.** A YOLO + OpenCV document auto-crop service (2.25x recall on 411 production images), and LLM triage that hands anything unsure to a human.
+- **Reference-check automation.** Checks start themselves, follow up every 24 hours, and an LLM on AWS Bedrock reads each reply and decides the next step.
+- **WhatsApp on Meta Cloud API.** I proposed and built it: send pipeline, webhooks, BullMQ queues, template sync, an agent inbox and a reply classifier, rolled out behind flags from 1% to 100%.
+- **AI in the pipeline.** A YOLO + OpenCV document auto-crop service (2.25x recall on 411 production images), and LLM triage that hands anything unsure to a human.
 
 <details>
 <summary><b>How one of these pipelines works</b></summary>
@@ -78,12 +78,12 @@ A real-estate site study, first built for an assessment, then rebuilt. The page 
 
 ## What I can build for you
 
-| | |
-|---|---|
-| **Automate a manual workflow** | The repetitive steps your team does by hand: queued jobs, follow-ups, webhooks, and LLM triage with a human fallback. |
-| **Messaging and integrations** | WhatsApp Cloud API, email (SES), third-party APIs and webhooks, with retries and delivery tracking. |
-| **Postgres and realtime backends** | Supabase or plain Postgres: schema, Row Level Security, realtime, and tests that try to break it. |
-| **Product frontends** | React and Next.js apps that ship with the backend, not after it. |
+<table>
+<tr><td width="34%" valign="top"><b>Automate a manual workflow</b></td><td valign="top">The repetitive steps your team does by hand: queued jobs, follow-ups, webhooks, and LLM triage with a human fallback.</td></tr>
+<tr><td width="34%" valign="top"><b>Messaging and integrations</b></td><td valign="top">WhatsApp Cloud API, email (SES), third-party APIs and webhooks, with retries and delivery tracking.</td></tr>
+<tr><td width="34%" valign="top"><b>Postgres and realtime backends</b></td><td valign="top">Supabase or plain Postgres: schema, Row Level Security, realtime, and tests that try to break it.</td></tr>
+<tr><td width="34%" valign="top"><b>Product frontends</b></td><td valign="top">React and Next.js apps that ship with the backend, not after it.</td></tr>
+</table>
 
 ## Stack
 
@@ -96,11 +96,11 @@ A real-estate site study, first built for an assessment, then rebuilt. The page 
 
 ## Experience
 
-| | | |
-|---|---|---|
-| **SpringWorks** | SDE-1 · 2026 to now | Backend automation, queues, LLM routing, WhatsApp Cloud API. 148 merged PRs. |
-| **GetMax Solutions** | Software Engineer Intern · 2025 | Built [getmaxhealthcare.com](https://www.getmaxhealthcare.com) end to end and internal tools for US healthcare ops. |
-| **IIIT Vadodara** | B.Tech CSE · 2026 | Teaching assistant for Design and Analysis of Algorithms (200+ students). |
+<table>
+<tr><td width="20%" valign="top"><b>SpringWorks</b></td><td width="26%" valign="top">SDE-1 · 2026 to now</td><td valign="top">Backend automation, queues, LLM routing, WhatsApp Cloud API. 148 merged PRs.</td></tr>
+<tr><td width="20%" valign="top"><b>GetMax Solutions</b></td><td width="26%" valign="top">Software Engineer Intern · 2025</td><td valign="top">Built <a href=\"https://www.getmaxhealthcare.com\">getmaxhealthcare.com</a> end to end and internal tools for US healthcare ops.</td></tr>
+<tr><td width="20%" valign="top"><b>IIIT Vadodara</b></td><td width="26%" valign="top">B.Tech CSE · 2026</td><td valign="top">Teaching assistant for Design and Analysis of Algorithms (200+ students).</td></tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradumya004/pradumya004/output/activity-dark.svg">
