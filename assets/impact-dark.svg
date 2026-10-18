@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="86% of reference checks start with no human; manual tasks fell from 116 to 14 a day; 11K+ WhatsApp messages with about 90% of replies auto-routed; turnaround 31% faster.">
+<style>.n{font:700 40px Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;letter-spacing:-0.03em}.l{font:500 14px Inter,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="879" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="28.0" y="30" width="22" height="3" rx="1.5" fill="#2f81f7"/>
+<text x="28.0" y="82" class="n" fill="#e6edf3">86%</text>
+<text x="28.0" y="106" class="l" fill="#8b949e">of reference checks now</text>
+<text x="28.0" y="125" class="l" fill="#8b949e">start with no human</text>
+<line x1="220.0" y1="28" x2="220.0" y2="122" stroke="#30363d"/>
+<rect x="248.0" y="30" width="22" height="3" rx="1.5" fill="#2f81f7"/>
+<text x="248.0" y="82" class="n" fill="#e6edf3">116 → 14</text>
+<text x="248.0" y="106" class="l" fill="#8b949e">manual tasks a day</text>
+<text x="248.0" y="125" class="l" fill="#8b949e">after the automation</text>
+<line x1="440.0" y1="28" x2="440.0" y2="122" stroke="#30363d"/>
+<rect x="468.0" y="30" width="22" height="3" rx="1.5" fill="#2f81f7"/>
+<text x="468.0" y="82" class="n" fill="#e6edf3">11K+</text>
+<text x="468.0" y="106" class="l" fill="#8b949e">WhatsApp messages,</text>
+<text x="468.0" y="125" class="l" fill="#8b949e">~90% of replies auto-routed</text>
+<line x1="660.0" y1="28" x2="660.0" y2="122" stroke="#30363d"/>
+<rect x="688.0" y="30" width="22" height="3" rx="1.5" fill="#2f81f7"/>
+<text x="688.0" y="82" class="n" fill="#e6edf3">31%</text>
+<text x="688.0" y="106" class="l" fill="#8b949e">faster turnaround</text>
+<text x="688.0" y="125" class="l" fill="#8b949e">22.4 to 15.4 days</text>
+</svg>
