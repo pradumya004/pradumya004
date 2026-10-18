@@ -44,34 +44,42 @@ Every step is a queued job with retries, rate limits and a feature flag per roll
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://buzz-bell-ycsb.vercel.app"><img src="https://github.com/pradumya004/BuzzBell/raw/main/docs/film.webp" width="100%" alt="BuzzBell: a message travels from one window to another and opens into the Postgres policy that guards it."></a>
+
+https://github.com/user-attachments/assets/4cc349a7-d0c5-4db7-b067-9b68c41259e1
+
 <h3>BuzzBell</h3>
 Realtime chat with no app server. Postgres Row Level Security is the whole authorization layer, and 34 SQL checks try to break it.
 <p><img src="https://skillicons.dev/icons?i=react,ts,supabase,postgres,vitest" height="30" alt="React, TypeScript, Supabase, Postgres, Vitest"></p>
-<a href="https://buzz-bell-ycsb.vercel.app">Live</a> · <a href="https://github.com/pradumya004/BuzzBell">Code</a> · <a href="https://github.com/pradumya004/BuzzBell/blob/main/docs/launch.mp4">Film</a>
+<a href="https://buzz-bell-ycsb.vercel.app">Live</a> · <a href="https://github.com/pradumya004/BuzzBell">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://pawsetv.vercel.app"><img src="https://github.com/pradumya004/pawse/raw/master/docs/film.webp" width="100%" alt="Pawse: two players drift 350 ms apart, then the sync engine pulls them to 6 ms."></a>
+
+https://github.com/user-attachments/assets/3b89adcc-6d9a-4ed7-88cb-4a15937b4c1c
+
 <h3>Pawse</h3>
 Watch a movie together from two cities. Clock sync and drift correction keep players 6 ms apart (350 ms before); the file goes peer to peer.
 <p><img src="https://skillicons.dev/icons?i=react,nodejs,js,vercel" height="30" alt="React, Node.js WebSocket relay, WebRTC, Vercel"></p>
-<a href="https://pawsetv.vercel.app">Live</a> · <a href="https://github.com/pradumya004/pawse">Code</a> · <a href="https://github.com/pradumya004/pawse/blob/master/docs/launch.mp4">Film</a>
+<a href="https://pawsetv.vercel.app">Live</a> · <a href="https://github.com/pradumya004/pawse">Code</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://bowl-n-sticks.vercel.app"><img src="https://github.com/pradumya004/bowl-n-sticks/raw/main/docs/film.webp" width="100%" alt="Bowl n Sticks: a phone reads the table QR, the menu opens with no app, and one tap filters to veg."></a>
+
+https://github.com/user-attachments/assets/9a982a23-8981-4eda-9cdf-c9d56d8dd22d
+
 <h3>Bowl n Sticks</h3>
 QR menu and admin panel for a cafe in Karwar, built for a freelance client. The owners run the menu themselves; RLS decides who can write. 83 tests.
 <p><img src="https://skillicons.dev/icons?i=nextjs,supabase,postgres,tailwind,vercel" height="30" alt="Next.js, Supabase, Postgres, Tailwind, Vercel"></p>
-<a href="https://bowl-n-sticks.vercel.app">Live</a> · <a href="https://github.com/pradumya004/bowl-n-sticks">Code</a> · <a href="https://github.com/pradumya004/bowl-n-sticks/blob/main/docs/launch.mp4">Film</a>
+<a href="https://bowl-n-sticks.vercel.app">Live</a> · <a href="https://github.com/pradumya004/bowl-n-sticks">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://swastik-platinum.vercel.app"><img src="https://github.com/pradumya004/Swastik-Platinum/raw/main/docs/film.webp" width="100%" alt="Swastik Platinum: the tower rises at dusk and the page scrolls from the crown to the street."></a>
+
+https://github.com/user-attachments/assets/83340847-92fd-4fd8-b092-5cecff84f6b0
+
 <h3>Swastik Platinum</h3>
 A real-estate site study, first built for an assessment, then rebuilt. The page climbs the tower floor by floor and reads units off the plans.
 <p><img src="https://skillicons.dev/icons?i=react,tailwind,vite,vercel" height="30" alt="React, Tailwind, Vite, Vercel"></p>
-<a href="https://swastik-platinum.vercel.app">Live</a> · <a href="https://github.com/pradumya004/Swastik-Platinum">Code</a> · <a href="https://github.com/pradumya004/Swastik-Platinum/blob/main/docs/launch.mp4">Film</a>
+<a href="https://swastik-platinum.vercel.app">Live</a> · <a href="https://github.com/pradumya004/Swastik-Platinum">Code</a>
 </td>
 </tr>
 </table>
