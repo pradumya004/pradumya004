@@ -6,7 +6,7 @@
 
 SDE-1 at SpringWorks (background verification) · Bengaluru, IST (UTC+5:30) · open to remote roles and freelance work
 
-[**Email me**](mailto:pradumya.official@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pradumya2004/) · [Portfolio](https://pradumya-gaurav-portfolio.vercel.app/)
+[**Email me**](mailto:pradumya.official@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pradumya2004/) · [Portfolio](https://pradumya-gaurav.vercel.app/)
 
 ## Results in production
 
