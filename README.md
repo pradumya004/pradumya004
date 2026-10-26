@@ -6,7 +6,7 @@
 
 SDE-1 at SpringWorks (background verification) · Bengaluru, IST (UTC+5:30) · open to remote roles and freelance work
 
-[**Email me**](mailto:pradumya.official@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pradumya2004/) · [Portfolio](https://pradumya-gaurav.vercel.app/)
+[**Email me**](mailto:pradumya.official@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pradumya2004/) · [Portfolio](https://pradumya.is-a.dev/)
 
 ## Results in production
 
@@ -105,9 +105,9 @@ A real-estate site study, first built for an assessment, then rebuilt. The page 
 ## Experience
 
 <table>
-<tr><td width="20%" valign="top"><b>SpringWorks</b></td><td width="26%" valign="top">SDE-1 · 2026 to now</td><td valign="top">Backend automation, queues, LLM routing, WhatsApp Cloud API. 148 merged PRs.</td></tr>
-<tr><td width="20%" valign="top"><b>GetMax Solutions</b></td><td width="26%" valign="top">Software Engineer Intern · 2025</td><td valign="top">Built <a href=\"https://www.getmaxhealthcare.com\">getmaxhealthcare.com</a> end to end and internal tools for US healthcare ops.</td></tr>
-<tr><td width="20%" valign="top"><b>IIIT Vadodara</b></td><td width="26%" valign="top">B.Tech CSE · 2026</td><td valign="top">Teaching assistant for Design and Analysis of Algorithms (200+ students).</td></tr>
+<tr><td width="20%" valign="top"><b>SpringWorks</b></td><td width="26%" valign="top">SDE-1 · Jul 2026 to now<br><sub>SDE Intern, Jan to Jul 2026</sub></td><td valign="top">Backend automation, queues, LLM routing, WhatsApp Cloud API. 148 merged PRs.</td></tr>
+<tr><td width="20%" valign="top"><b>GetMax Solutions</b></td><td width="26%" valign="top">Software Engineer Intern · Jan to Dec 2025</td><td valign="top">Built <a href="https://www.getmaxhealthcare.com">getmaxhealthcare.com</a> end to end and internal tools for US healthcare ops.</td></tr>
+<tr><td width="20%" valign="top"><b>IIIT Vadodara</b></td><td width="26%" valign="top">B.Tech CSE · 2022 to 2026<br><sub>Teaching assistant, Aug to Dec 2025</sub></td><td valign="top">Teaching assistant for Design and Analysis of Algorithms (200+ students).</td></tr>
 </table>
 
 <picture>
